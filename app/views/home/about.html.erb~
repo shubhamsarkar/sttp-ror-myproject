@@ -1,0 +1,7 @@
+<h1>Home#about</h1>
+<p>Find me in app/views/home/about.html.erb</p>
+<table>
+<tr>
+<td>name</td>
+<td>class</td>
+<td>rollno</td>
